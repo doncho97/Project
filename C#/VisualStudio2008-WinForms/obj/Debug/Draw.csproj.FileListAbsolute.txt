@@ -1,0 +1,10 @@
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Draw.exe
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\bin\Debug\Draw.pdb
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.MainForm.resources
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.exe
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.pdb
+C:\Users\V\Desktop\C#\VisualStudio2008-WinForms\obj\Debug\Draw.Properties.Resources.resources
